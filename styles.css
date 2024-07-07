@@ -1,0 +1,84 @@
+#design1{
+    margin-left: 80%;
+    color: rgb(48, 182, 182);
+}
+a.active{
+    color: rgb(48, 182, 182);
+}
+#welcome_feature{
+    background-image:url("img.webp");
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 90%;
+   margin-left: 100px;
+}
+#text{
+    color: rgb(48, 182, 182);
+  font-size: 100px;
+  font-weight: bold;
+}
+#text1{
+    color: rgb(48, 182, 182);
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: 300px;
+}
+/* footer */
+.class{
+ list-style: none;
+}
+
+footer {
+    background-color:rgb(48, 182, 182);
+    color: #fff;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  footer h2 {
+    margin-top: 0;
+    font-weight: bold;
+    color: #fff; 
+  }
+  /* 2nd page mid space text design  */
+#mid-para{
+
+    font-style: italic;
+}
+#mid-head{
+    font-weight: bolder;
+}
+#in-text{
+    text-align: left;
+    font-weight: bold;
+}
+#but{
+   color: #fff;
+   width: 40%;
+}
+#mid{
+    height: 300px;
+    margin-top: 5%;
+}
+/* about page mid design */
+#about-mid{
+    padding-top: 90px;
+    height: 350px;
+    width: 1300px;
+}
+.card{
+    background-color:rgb(48, 182, 182);
+    margin: 30px;
+}
+#head-text{
+    color: rgb(48, 182, 182);
+    text-align: center;
+    font-weight: bolder;
+}
+.card-title{
+    color:rgb(48, 182, 182);
+    font-weight: bold;
+}
+.text-nav a {
+    color:rgb(48, 182, 182) ;
+}
